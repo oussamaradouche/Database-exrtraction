@@ -1,0 +1,474 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD1
+AGE;Âge atteint dans l'année;E;Ensemble
+AGE;Âge atteint dans l'année;15;15 ans ou moins
+AGE;Âge atteint dans l'année;16;16 ans
+AGE;Âge atteint dans l'année;17;17 ans
+AGE;Âge atteint dans l'année;18;18 ans
+AGE;Âge atteint dans l'année;19;19 ans
+AGE;Âge atteint dans l'année;20;20 ans
+AGE;Âge atteint dans l'année;21;21 ans
+AGE;Âge atteint dans l'année;22;22 ans
+AGE;Âge atteint dans l'année;23;23 ans
+AGE;Âge atteint dans l'année;24;24 ans
+AGE;Âge atteint dans l'année;25;25 ans
+AGE;Âge atteint dans l'année;26;26 ans
+AGE;Âge atteint dans l'année;27;27 ans
+AGE;Âge atteint dans l'année;28;28 ans
+AGE;Âge atteint dans l'année;29;29 ans
+AGE;Âge atteint dans l'année;30;30 ans
+AGE;Âge atteint dans l'année;31;31 ans
+AGE;Âge atteint dans l'année;32;32 ans
+AGE;Âge atteint dans l'année;33;33 ans
+AGE;Âge atteint dans l'année;34;34 ans
+AGE;Âge atteint dans l'année;35;35 ans
+AGE;Âge atteint dans l'année;36;36 ans
+AGE;Âge atteint dans l'année;37;37 ans
+AGE;Âge atteint dans l'année;38;38 ans
+AGE;Âge atteint dans l'année;39;39 ans
+AGE;Âge atteint dans l'année;40;40 ans
+AGE;Âge atteint dans l'année;41;41 ans
+AGE;Âge atteint dans l'année;42;42 ans
+AGE;Âge atteint dans l'année;43;43 ans
+AGE;Âge atteint dans l'année;44;44 ans
+AGE;Âge atteint dans l'année;45;45 ans
+AGE;Âge atteint dans l'année;46;46 ans
+AGE;Âge atteint dans l'année;47;47 ans
+AGE;Âge atteint dans l'année;48;48 ans
+AGE;Âge atteint dans l'année;49;49 ans
+AGE;Âge atteint dans l'année;50;50 ans
+AGE;Âge atteint dans l'année;51;51 ans
+AGE;Âge atteint dans l'année;52;52 ans
+AGE;Âge atteint dans l'année;53;53 ans
+AGE;Âge atteint dans l'année;54;54 ans
+AGE;Âge atteint dans l'année;55;55 ans
+AGE;Âge atteint dans l'année;56;56 ans
+AGE;Âge atteint dans l'année;57;57 ans
+AGE;Âge atteint dans l'année;58;58 ans
+AGE;Âge atteint dans l'année;59;59 ans
+AGE;Âge atteint dans l'année;60;60 ans
+AGE;Âge atteint dans l'année;61;61 ans
+AGE;Âge atteint dans l'année;62;62 ans
+AGE;Âge atteint dans l'année;63;63 ans
+AGE;Âge atteint dans l'année;64;64 ans
+AGE;Âge atteint dans l'année;65;65 ans ou plus
+AGECONJ1;Âge atteint dans l'année du conjoint 1;15;15 ans ou moins
+AGECONJ1;Âge atteint dans l'année du conjoint 1;16;16 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;17;17 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;18;18 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;19;19 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;20;20 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;21;21 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;22;22 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;23;23 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;24;24 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;25;25 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;26;26 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;27;27 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;28;28 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;29;29 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;30;30 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;31;31 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;32;32 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;33;33 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;34;34 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;35;35 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;36;36 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;37;37 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;38;38 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;39;39 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;40;40 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;41;41 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;42;42 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;43;43 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;44;44 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;45;45 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;46;46 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;47;47 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;48;48 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;49;49 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;50;50 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;51;51 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;52;52 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;53;53 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;54;54 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;55;55 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;56;56 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;57;57 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;58;58 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;59;59 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;60;60 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;61;61 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;62;62 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;63;63 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;64;64 ans
+AGECONJ1;Âge atteint dans l'année du conjoint 1;65;65 ans ou plus
+AGECONJ1;Âge atteint dans l'année du conjoint 1;E;Ensemble
+AGECONJ2;Âge atteint dans l'année du conjoint 2;15;15 ans ou moins
+AGECONJ2;Âge atteint dans l'année du conjoint 2;16;16 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;17;17 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;18;18 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;19;19 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;20;20 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;21;21 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;22;22 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;23;23 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;24;24 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;25;25 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;26;26 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;27;27 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;28;28 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;29;29 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;30;30 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;31;31 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;32;32 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;33;33 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;34;34 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;35;35 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;36;36 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;37;37 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;38;38 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;39;39 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;40;40 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;41;41 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;42;42 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;43;43 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;44;44 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;45;45 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;46;46 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;47;47 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;48;48 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;49;49 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;50;50 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;51;51 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;52;52 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;53;53 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;54;54 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;55;55 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;56;56 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;57;57 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;58;58 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;59;59 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;60;60 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;61;61 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;62;62 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;63;63 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;64;64 ans
+AGECONJ2;Âge atteint dans l'année du conjoint 2;65;65 ans ou plus
+AGECONJ2;Âge atteint dans l'année du conjoint 2;E;Ensemble
+CHAMP;Champ;FE;France inclus Mayotte
+CHAMP;Champ;FM;France métropolitaine
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;E;Ensemble
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;0;Moins d'un an
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;1;1 an
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;2;2 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;3;3 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;4;4 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;5;5 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;6;6 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;7;7 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;8;8 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;9;9 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;10;10 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;11;11 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;12;12 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;13;13 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;14;14 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;15;15 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;16;16 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;17;17 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;18;18 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;19;19 ans
+DURVD;Durée écoulée depuis le veuvage ou divorce, en différence de millésime;20;20 ans ou plus
+ETAMAT;État matrimonial antérieur au mariage;E;Ensemble
+ETAMAT;État matrimonial antérieur au mariage;1;Célibataires
+ETAMAT;État matrimonial antérieur au mariage;3;Veufs / Veuves
+ETAMAT;État matrimonial antérieur au mariage;4;Divorcés / Divorcées
+ETAMATR;État matrimonial antérieur au remariage;3;Veufs / Veuves
+ETAMATR;État matrimonial antérieur au remariage;4;Divorcés / Divorcées
+GRAGE;Groupe d'âges atteints dans l'année;TOTAL;Ensemble
+GRAGE;Groupe d'âges atteints dans l'année;14_19;Moins de 20 ans
+GRAGE;Groupe d'âges atteints dans l'année;20_24;De 20 à 24 ans
+GRAGE;Groupe d'âges atteints dans l'année;25_29;De 25 à 29 ans
+GRAGE;Groupe d'âges atteints dans l'année;30_34;De 30 à 34 ans
+GRAGE;Groupe d'âges atteints dans l'année;35_39;De 35 à 39 ans
+GRAGE;Groupe d'âges atteints dans l'année;40_49;De 40 à 49 ans
+GRAGE;Groupe d'âges atteints dans l'année;50_59;De 50 à 59 ans
+GRAGE;Groupe d'âges atteints dans l'année;60_PL;60 ans ou plus
+INDIC1;Indicateur;NBMAR;Nombre de mariages
+INDIC2;Indicateur;NBMARIES;Nombre de marié(e)s
+LNEPOUX;Pays de naissance combiné des époux(ses);TOTAL;Ensemble
+LNEPOUX;Pays de naissance combiné des époux(ses);FR_FR;Les deux époux(se) né(e)s en France
+LNEPOUX;Pays de naissance combiné des époux(ses);FR_ETR;Couples mixtes
+LNEPOUX;Pays de naissance combiné des époux(ses);ETR_ETR;Les deux époux(ses) né(e)s à l'étranger
+MMAR;Mois du mariage;AN;Année
+MMAR;Mois du mariage;01;Janvier
+MMAR;Mois du mariage;02;Février
+MMAR;Mois du mariage;03;Mars
+MMAR;Mois du mariage;04;Avril
+MMAR;Mois du mariage;05;Mai
+MMAR;Mois du mariage;06;Juin
+MMAR;Mois du mariage;07;Juillet
+MMAR;Mois du mariage;08;Août
+MMAR;Mois du mariage;09;Septembre
+MMAR;Mois du mariage;10;Octobre
+MMAR;Mois du mariage;11;Novembre
+MMAR;Mois du mariage;12;Décembre
+NATEPOUX;Nationalité combinée des époux(ses);TOTAL;Ensemble
+NATEPOUX;Nationalité combinée des époux(ses);FR_FR;Les deux époux(ses) français(es)
+NATEPOUX;Nationalité combinée des époux(ses);FR_ETR;Couples mixtes
+NATEPOUX;Nationalité combinée des époux(ses);ETR_ETR;Les deux époux(ses) étrangers(ères)
+REGDEP_DOMI;Région et département de domicile des époux;1175;Paris
+REGDEP_DOMI;Région et département de domicile des époux;1177;Seine-et-Marne
+REGDEP_DOMI;Région et département de domicile des époux;1178;Yvelines
+REGDEP_DOMI;Région et département de domicile des époux;1191;Essonne
+REGDEP_DOMI;Région et département de domicile des époux;1192;Hauts-de-Seine
+REGDEP_DOMI;Région et département de domicile des époux;1193;Seine-Saint-Denis
+REGDEP_DOMI;Région et département de domicile des époux;1194;Val-de-Marne
+REGDEP_DOMI;Région et département de domicile des époux;1195;Val-d'Oise
+REGDEP_DOMI;Région et département de domicile des époux;11XX;Île-de-France
+REGDEP_DOMI;Région et département de domicile des époux;2418;Cher
+REGDEP_DOMI;Région et département de domicile des époux;2428;Eure-et-Loir
+REGDEP_DOMI;Région et département de domicile des époux;2436;Indre
+REGDEP_DOMI;Région et département de domicile des époux;2437;Indre-et-Loire
+REGDEP_DOMI;Région et département de domicile des époux;2441;Loir-et-Cher
+REGDEP_DOMI;Région et département de domicile des époux;2445;Loiret
+REGDEP_DOMI;Région et département de domicile des époux;24XX;Centre-Val de Loire
+REGDEP_DOMI;Région et département de domicile des époux;2721;Côte-d'Or
+REGDEP_DOMI;Région et département de domicile des époux;2758;Nièvre
+REGDEP_DOMI;Région et département de domicile des époux;2771;Saône-et-Loire
+REGDEP_DOMI;Région et département de domicile des époux;2789;Yonne
+REGDEP_DOMI;Région et département de domicile des époux;2725;Doubs
+REGDEP_DOMI;Région et département de domicile des époux;2739;Jura
+REGDEP_DOMI;Région et département de domicile des époux;2770;Haute-Saône
+REGDEP_DOMI;Région et département de domicile des époux;2790;Territoire de Belfort
+REGDEP_DOMI;Région et département de domicile des époux;27XX;Bourgogne-Franche-Comté
+REGDEP_DOMI;Région et département de domicile des époux;2827;Eure
+REGDEP_DOMI;Région et département de domicile des époux;2876;Seine-Maritime
+REGDEP_DOMI;Région et département de domicile des époux;2814;Calvados
+REGDEP_DOMI;Région et département de domicile des époux;2850;Manche
+REGDEP_DOMI;Région et département de domicile des époux;2861;Orne
+REGDEP_DOMI;Région et département de domicile des époux;28XX;Normandie
+REGDEP_DOMI;Région et département de domicile des époux;3259;Nord
+REGDEP_DOMI;Région et département de domicile des époux;3262;Pas-de-Calais
+REGDEP_DOMI;Région et département de domicile des époux;3202;Aisne
+REGDEP_DOMI;Région et département de domicile des époux;3260;Oise
+REGDEP_DOMI;Région et département de domicile des époux;3280;Somme
+REGDEP_DOMI;Région et département de domicile des époux;32XX;Hauts-de-France
+REGDEP_DOMI;Région et département de domicile des époux;4454;Meurthe-et-Moselle
+REGDEP_DOMI;Région et département de domicile des époux;4455;Meuse
+REGDEP_DOMI;Région et département de domicile des époux;4457;Moselle
+REGDEP_DOMI;Région et département de domicile des époux;4488;Vosges
+REGDEP_DOMI;Région et département de domicile des époux;4467;Bas-Rhin
+REGDEP_DOMI;Région et département de domicile des époux;4468;Haut-Rhin
+REGDEP_DOMI;Région et département de domicile des époux;4408;Ardennes
+REGDEP_DOMI;Région et département de domicile des époux;4410;Aube
+REGDEP_DOMI;Région et département de domicile des époux;4451;Marne
+REGDEP_DOMI;Région et département de domicile des époux;4452;Haute-Marne
+REGDEP_DOMI;Région et département de domicile des époux;44XX;Grand Est
+REGDEP_DOMI;Région et département de domicile des époux;5244;Loire-Atlantique
+REGDEP_DOMI;Région et département de domicile des époux;5249;Maine-et-Loire
+REGDEP_DOMI;Région et département de domicile des époux;5253;Mayenne
+REGDEP_DOMI;Région et département de domicile des époux;5272;Sarthe
+REGDEP_DOMI;Région et département de domicile des époux;5285;Vendée
+REGDEP_DOMI;Région et département de domicile des époux;52XX;Pays de la Loire
+REGDEP_DOMI;Région et département de domicile des époux;5322;Côtes-d'Armor
+REGDEP_DOMI;Région et département de domicile des époux;5329;Finistère
+REGDEP_DOMI;Région et département de domicile des époux;5335;Ille-et-Vilaine
+REGDEP_DOMI;Région et département de domicile des époux;5356;Morbihan
+REGDEP_DOMI;Région et département de domicile des époux;53XX;Bretagne
+REGDEP_DOMI;Région et département de domicile des époux;7524;Dordogne
+REGDEP_DOMI;Région et département de domicile des époux;7533;Gironde
+REGDEP_DOMI;Région et département de domicile des époux;7540;Landes
+REGDEP_DOMI;Région et département de domicile des époux;7547;Lot-et-Garonne
+REGDEP_DOMI;Région et département de domicile des époux;7564;Pyrénées-Atlantiques
+REGDEP_DOMI;Région et département de domicile des époux;7516;Charente
+REGDEP_DOMI;Région et département de domicile des époux;7517;Charente-Maritime
+REGDEP_DOMI;Région et département de domicile des époux;7579;Deux-Sèvres
+REGDEP_DOMI;Région et département de domicile des époux;7586;Vienne
+REGDEP_DOMI;Région et département de domicile des époux;7519;Corrèze
+REGDEP_DOMI;Région et département de domicile des époux;7523;Creuse
+REGDEP_DOMI;Région et département de domicile des époux;7587;Haute-Vienne
+REGDEP_DOMI;Région et département de domicile des époux;75XX;Nouvelle-Aquitaine
+REGDEP_DOMI;Région et département de domicile des époux;7609;Ariège
+REGDEP_DOMI;Région et département de domicile des époux;7612;Aveyron
+REGDEP_DOMI;Région et département de domicile des époux;7631;Haute-Garonne
+REGDEP_DOMI;Région et département de domicile des époux;7632;Gers
+REGDEP_DOMI;Région et département de domicile des époux;7646;Lot
+REGDEP_DOMI;Région et département de domicile des époux;7665;Hautes-Pyrénées
+REGDEP_DOMI;Région et département de domicile des époux;7681;Tarn
+REGDEP_DOMI;Région et département de domicile des époux;7682;Tarn-et-Garonne
+REGDEP_DOMI;Région et département de domicile des époux;7611;Aude
+REGDEP_DOMI;Région et département de domicile des époux;7630;Gard
+REGDEP_DOMI;Région et département de domicile des époux;7634;Hérault
+REGDEP_DOMI;Région et département de domicile des époux;7648;Lozère
+REGDEP_DOMI;Région et département de domicile des époux;7666;Pyrénées-Orientales
+REGDEP_DOMI;Région et département de domicile des époux;76XX;Occitanie
+REGDEP_DOMI;Région et département de domicile des époux;8401;Ain
+REGDEP_DOMI;Région et département de domicile des époux;8407;Ardèche
+REGDEP_DOMI;Région et département de domicile des époux;8426;Drôme
+REGDEP_DOMI;Région et département de domicile des époux;8438;Isère
+REGDEP_DOMI;Région et département de domicile des époux;8442;Loire
+REGDEP_DOMI;Région et département de domicile des époux;8469;Rhône
+REGDEP_DOMI;Région et département de domicile des époux;8473;Savoie
+REGDEP_DOMI;Région et département de domicile des époux;8474;Haute-Savoie
+REGDEP_DOMI;Région et département de domicile des époux;8403;Allier
+REGDEP_DOMI;Région et département de domicile des époux;8415;Cantal
+REGDEP_DOMI;Région et département de domicile des époux;8443;Haute-Loire
+REGDEP_DOMI;Région et département de domicile des époux;8463;Puy-de-Dôme
+REGDEP_DOMI;Région et département de domicile des époux;84XX;Auvergne-Rhône-Alpes
+REGDEP_DOMI;Région et département de domicile des époux;9304;Alpes-de-Haute-Provence
+REGDEP_DOMI;Région et département de domicile des époux;9305;Hautes-Alpes
+REGDEP_DOMI;Région et département de domicile des époux;9306;Alpes-Maritimes
+REGDEP_DOMI;Région et département de domicile des époux;9313;Bouches-du-Rhône
+REGDEP_DOMI;Région et département de domicile des époux;9383;Var
+REGDEP_DOMI;Région et département de domicile des époux;9384;Vaucluse
+REGDEP_DOMI;Région et département de domicile des époux;93XX;Provence-Alpes-Côte d'Azur
+REGDEP_DOMI;Région et département de domicile des époux;942A;Corse-du-Sud
+REGDEP_DOMI;Région et département de domicile des époux;942B;Haute-Corse
+REGDEP_DOMI;Région et département de domicile des époux;94XX;Corse
+REGDEP_DOMI;Région et département de domicile des époux;FM;France métropolitaine
+REGDEP_DOMI;Région et département de domicile des époux;971;Guadeloupe
+REGDEP_DOMI;Région et département de domicile des époux;972;Martinique
+REGDEP_DOMI;Région et département de domicile des époux;973;Guyane
+REGDEP_DOMI;Région et département de domicile des époux;974;La Réunion
+REGDEP_DOMI;Région et département de domicile des époux;976;Mayotte
+REGDEP_DOMI;Région et département de domicile des époux;97XX;Départements et régions d'outre-mer
+REGDEP_DOMI;Région et département de domicile des époux;FE;France
+REGDEP_MAR;Région et département de mariage;1175;Paris
+REGDEP_MAR;Région et département de mariage;1177;Seine-et-Marne
+REGDEP_MAR;Région et département de mariage;1178;Yvelines
+REGDEP_MAR;Région et département de mariage;1191;Essonne
+REGDEP_MAR;Région et département de mariage;1192;Hauts-de-Seine
+REGDEP_MAR;Région et département de mariage;1193;Seine-Saint-Denis
+REGDEP_MAR;Région et département de mariage;1194;Val-de-Marne
+REGDEP_MAR;Région et département de mariage;1195;Val-d'Oise
+REGDEP_MAR;Région et département de mariage;11XX;Île-de-France
+REGDEP_MAR;Région et département de mariage;2418;Cher
+REGDEP_MAR;Région et département de mariage;2428;Eure-et-Loir
+REGDEP_MAR;Région et département de mariage;2436;Indre
+REGDEP_MAR;Région et département de mariage;2437;Indre-et-Loire
+REGDEP_MAR;Région et département de mariage;2441;Loir-et-Cher
+REGDEP_MAR;Région et département de mariage;2445;Loiret
+REGDEP_MAR;Région et département de mariage;24XX;Centre-Val de Loire
+REGDEP_MAR;Région et département de mariage;2721;Côte-d'Or
+REGDEP_MAR;Région et département de mariage;2758;Nièvre
+REGDEP_MAR;Région et département de mariage;2771;Saône-et-Loire
+REGDEP_MAR;Région et département de mariage;2789;Yonne
+REGDEP_MAR;Région et département de mariage;2725;Doubs
+REGDEP_MAR;Région et département de mariage;2739;Jura
+REGDEP_MAR;Région et département de mariage;2770;Haute-Saône
+REGDEP_MAR;Région et département de mariage;2790;Territoire de Belfort
+REGDEP_MAR;Région et département de mariage;27XX;Bourgogne-Franche-Comté
+REGDEP_MAR;Région et département de mariage;2827;Eure
+REGDEP_MAR;Région et département de mariage;2876;Seine-Maritime
+REGDEP_MAR;Région et département de mariage;2814;Calvados
+REGDEP_MAR;Région et département de mariage;2850;Manche
+REGDEP_MAR;Région et département de mariage;2861;Orne
+REGDEP_MAR;Région et département de mariage;28XX;Normandie
+REGDEP_MAR;Région et département de mariage;3259;Nord
+REGDEP_MAR;Région et département de mariage;3262;Pas-de-Calais
+REGDEP_MAR;Région et département de mariage;3202;Aisne
+REGDEP_MAR;Région et département de mariage;3260;Oise
+REGDEP_MAR;Région et département de mariage;3280;Somme
+REGDEP_MAR;Région et département de mariage;32XX;Hauts-de-France
+REGDEP_MAR;Région et département de mariage;4454;Meurthe-et-Moselle
+REGDEP_MAR;Région et département de mariage;4455;Meuse
+REGDEP_MAR;Région et département de mariage;4457;Moselle
+REGDEP_MAR;Région et département de mariage;4488;Vosges
+REGDEP_MAR;Région et département de mariage;4467;Bas-Rhin
+REGDEP_MAR;Région et département de mariage;4468;Haut-Rhin
+REGDEP_MAR;Région et département de mariage;4408;Ardennes
+REGDEP_MAR;Région et département de mariage;4410;Aube
+REGDEP_MAR;Région et département de mariage;4451;Marne
+REGDEP_MAR;Région et département de mariage;4452;Haute-Marne
+REGDEP_MAR;Région et département de mariage;44XX;Grand Est
+REGDEP_MAR;Région et département de mariage;5244;Loire-Atlantique
+REGDEP_MAR;Région et département de mariage;5249;Maine-et-Loire
+REGDEP_MAR;Région et département de mariage;5253;Mayenne
+REGDEP_MAR;Région et département de mariage;5272;Sarthe
+REGDEP_MAR;Région et département de mariage;5285;Vendée
+REGDEP_MAR;Région et département de mariage;52XX;Pays de la Loire
+REGDEP_MAR;Région et département de mariage;5322;Côtes-d'Armor
+REGDEP_MAR;Région et département de mariage;5329;Finistère
+REGDEP_MAR;Région et département de mariage;5335;Ille-et-Vilaine
+REGDEP_MAR;Région et département de mariage;5356;Morbihan
+REGDEP_MAR;Région et département de mariage;53XX;Bretagne
+REGDEP_MAR;Région et département de mariage;7524;Dordogne
+REGDEP_MAR;Région et département de mariage;7533;Gironde
+REGDEP_MAR;Région et département de mariage;7540;Landes
+REGDEP_MAR;Région et département de mariage;7547;Lot-et-Garonne
+REGDEP_MAR;Région et département de mariage;7564;Pyrénées-Atlantiques
+REGDEP_MAR;Région et département de mariage;7516;Charente
+REGDEP_MAR;Région et département de mariage;7517;Charente-Maritime
+REGDEP_MAR;Région et département de mariage;7579;Deux-Sèvres
+REGDEP_MAR;Région et département de mariage;7586;Vienne
+REGDEP_MAR;Région et département de mariage;7519;Corrèze
+REGDEP_MAR;Région et département de mariage;7523;Creuse
+REGDEP_MAR;Région et département de mariage;7587;Haute-Vienne
+REGDEP_MAR;Région et département de mariage;75XX;Nouvelle-Aquitaine
+REGDEP_MAR;Région et département de mariage;7609;Ariège
+REGDEP_MAR;Région et département de mariage;7612;Aveyron
+REGDEP_MAR;Région et département de mariage;7631;Haute-Garonne
+REGDEP_MAR;Région et département de mariage;7632;Gers
+REGDEP_MAR;Région et département de mariage;7646;Lot
+REGDEP_MAR;Région et département de mariage;7665;Hautes-Pyrénées
+REGDEP_MAR;Région et département de mariage;7681;Tarn
+REGDEP_MAR;Région et département de mariage;7682;Tarn-et-Garonne
+REGDEP_MAR;Région et département de mariage;7611;Aude
+REGDEP_MAR;Région et département de mariage;7630;Gard
+REGDEP_MAR;Région et département de mariage;7634;Hérault
+REGDEP_MAR;Région et département de mariage;7648;Lozère
+REGDEP_MAR;Région et département de mariage;7666;Pyrénées-Orientales
+REGDEP_MAR;Région et département de mariage;76XX;Occitanie
+REGDEP_MAR;Région et département de mariage;8401;Ain
+REGDEP_MAR;Région et département de mariage;8407;Ardèche
+REGDEP_MAR;Région et département de mariage;8426;Drôme
+REGDEP_MAR;Région et département de mariage;8438;Isère
+REGDEP_MAR;Région et département de mariage;8442;Loire
+REGDEP_MAR;Région et département de mariage;8469;Rhône
+REGDEP_MAR;Région et département de mariage;8473;Savoie
+REGDEP_MAR;Région et département de mariage;8474;Haute-Savoie
+REGDEP_MAR;Région et département de mariage;8403;Allier
+REGDEP_MAR;Région et département de mariage;8415;Cantal
+REGDEP_MAR;Région et département de mariage;8443;Haute-Loire
+REGDEP_MAR;Région et département de mariage;8463;Puy-de-Dôme
+REGDEP_MAR;Région et département de mariage;84XX;Auvergne-Rhône-Alpes
+REGDEP_MAR;Région et département de mariage;9304;Alpes-de-Haute-Provence
+REGDEP_MAR;Région et département de mariage;9305;Hautes-Alpes
+REGDEP_MAR;Région et département de mariage;9306;Alpes-Maritimes
+REGDEP_MAR;Région et département de mariage;9313;Bouches-du-Rhône
+REGDEP_MAR;Région et département de mariage;9383;Var
+REGDEP_MAR;Région et département de mariage;9384;Vaucluse
+REGDEP_MAR;Région et département de mariage;93XX;Provence-Alpes-Côte d'Azur
+REGDEP_MAR;Région et département de mariage;942A;Corse-du-Sud
+REGDEP_MAR;Région et département de mariage;942B;Haute-Corse
+REGDEP_MAR;Région et département de mariage;94XX;Corse
+REGDEP_MAR;Région et département de mariage;FM;France métropolitaine
+REGDEP_MAR;Région et département de mariage;971;Guadeloupe
+REGDEP_MAR;Région et département de mariage;972;Martinique
+REGDEP_MAR;Région et département de mariage;973;Guyane
+REGDEP_MAR;Région et département de mariage;974;La Réunion
+REGDEP_MAR;Région et département de mariage;976;Mayotte
+REGDEP_MAR;Région et département de mariage;97XX;Départements et régions d'outre-mer
+REGDEP_MAR;Région et département de mariage;FE;France
+SEXE;Sexe du conjoint;H;Hommes
+SEXE;Sexe du conjoint;F;Femmes
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;0;Communes rurales
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;1;Moins de 5 000 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;2;5 000 à 9 999 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;3;10 000 à 19 999 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;4;20 000 à 49 999 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;5;50 000 à 99 999 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;6;100 000 à 199 999 habitants
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;7;200 000 habitants ou plus
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;8;Agglomération de Paris
+TUMAR;Tranche d'unité urbaine d'enregistrement du mariage;E;Ensemble
+TYPMAR;;HF;Mariages entre personnes de sexe différent
+TYPMAR;;HH-FF;Mariages entre personnes de même sexe
+TYPMAR2;;HF;Mariages entre personnes de sexe différent
+TYPMAR2;;HH;Mariages entre hommes
+TYPMAR2;;FF;Mariages entre femmes
+TYPMAR3;;HF-H;Mariages entre personnes de sexe différent - Hommes
+TYPMAR3;;HF-F;Mariages entre personnes de sexe différent - Femmes
+TYPMAR3;;HH;Mariages entre hommes
+TYPMAR3;;FF;Mariages entre femmes
